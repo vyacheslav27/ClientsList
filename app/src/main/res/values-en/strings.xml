@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClientsList</string>
+
+    <string name="name">Name</string>
+    <string name="lastname">Lastname</string>
+    <string name="email">Email</string>
+    <string name="number">Mobile number</string>
+
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="new_contact">New contact</string>
+</resources>

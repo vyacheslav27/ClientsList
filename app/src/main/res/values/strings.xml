@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ClientsList</string>
+
+    <string name="name">Имя</string>
+    <string name="lastname">Фамилия</string>
+    <string name="email">Почта</string>
+    <string name="number">Номер телефона</string>
+
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+    <string name="new_contact">Новый контакт</string>
+</resources>
